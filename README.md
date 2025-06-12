@@ -21,7 +21,7 @@ To build a professional dashboard using Power BI to analyze:
 - *Slicers*: Region and Product Category filters
 
 - ## 🖼 Dashboard Preview
-- [Dashboard Screenshot](Dashboard_Overview.png)
+- [Dashboard Screenshot](Dashboard_overview.png)
 
 ## 📅 Project Info
 - *Tool Used:* Microsoft Power BI
